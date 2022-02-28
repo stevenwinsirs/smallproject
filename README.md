@@ -1,4 +1,4 @@
-##Create a web page which includes:
+Create a web page which includes:
 
 a. A button to support user location acquisition from browser.
 
